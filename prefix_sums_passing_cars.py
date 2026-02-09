@@ -9,7 +9,6 @@ def solution(A):
     return cnt
 
 # right answer: adding prefix (in this case the number of zeros) in advance => Time Complexity O(n)
-
 def solution(A):
     zeros = 0
     pairs = 0
