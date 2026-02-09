@@ -1,4 +1,4 @@
-# Right answer: use the cummulative number of each letters!
+# Right answer: use the cummulative number of each letters! (Time Complexity O(N+M))
 def solution(S, P, Q):
     # Step 1
     # prefix 배열 (index 별 각 character 누적 등장 횟수) 만들기
